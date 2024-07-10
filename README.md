@@ -48,8 +48,10 @@
 ![Actividad 6 - Classes - pt2](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/005e4fd3-fdd3-4570-a2eb-290719c9c169)
 
 ### Actividad 7 - Constructors and names. 0.25 ptos.
+![Actividad 7 - Constructors and names](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/f51499d4-bfd3-4deb-886a-7614d201e4be)
 
 ### Actividad 8 - Get and Set. 0.25 ptos.
+![Actividad 8 - Get and Set](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/79672ad9-08ea-46dd-a86c-235b157ad2ce)
 
 ### Actividad 9 - Abstract class. 0.25 ptos.
 #### Parte 1 - Uso de las clases
@@ -90,6 +92,7 @@
 ### Resultado después de mandar mensaje
 ![Aplicación YesOrNo - Resultado después de mandar mensaje](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/24077e30-1426-4b9d-bc8e-974137e58af3)
 
-
+## Repositorio del Proyecto
+![Wearable](https://github.com/rodrigovm10/wearable)
 
 
