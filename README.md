@@ -74,10 +74,10 @@
 ![Actividad 12 - Async Await](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/c0baab32-e7dc-4aa6-9c06-b73654da2b96)
 
 ### Actividad 13 - Try catch finally. 0.25 ptos.
-![Actividad 13 - Try catch finally](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/01a1e1f9-24f1-486b-8afd-ce8068f0ec5f)
+![Actividad 13 - Try catch finally](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/ee07e0bd-d7df-499c-bda1-d7e342aa1365)
 
 ### Actividad 14 - Streams. 0.25 ptos.
-![Actividad 14 - Streams](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/ee07e0bd-d7df-499c-bda1-d7e342aa1365)
+![Actividad 14 - Streams](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/01a1e1f9-24f1-486b-8afd-ce8068f0ec5f)
 
 ### Actividad 15 - Streams await. 0.25 ptos.
 ![Actividad 15 - Streams await](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/c81a8bc1-5244-4cb6-85a4-720d300a4d16)
