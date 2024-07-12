@@ -93,6 +93,6 @@
 ![Aplicación YesOrNo - Resultado después de mandar mensaje](https://github.com/rodrigovm10/Complemento-Flutter/assets/104101668/24077e30-1426-4b9d-bc8e-974137e58af3)
 
 ## Repositorio del Proyecto
-![Wearable](https://github.com/rodrigovm10/wearable)
+[Wearable](https://github.com/rodrigovm10/wearable)
 
 
